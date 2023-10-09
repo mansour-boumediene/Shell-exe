@@ -1,1 +1,1 @@
-echo "Result : " $(($1 + $2))
+echo "Result : " $(($1 + $1))
